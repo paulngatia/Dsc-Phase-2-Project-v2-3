@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 ## Project Description
 ### Analysis of House Sales in a King's County
+=======
+Project Description
+
+Analysis of House Sales in a King's County
+>>>>>>> 64acf0464a6812c05f3a1bdba21446db6b763b88
 
 
 ## Project Overview
