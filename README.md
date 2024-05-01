@@ -80,7 +80,7 @@ The final model, a multiple linear regression, incorporated additional features 
 ![Actual vs Predicted](image-4.png)
 
 
-Conclusion
+## Conclusion
 
  The multiple linear regression model is better than the simple linear regression model because The multiple linear regression model has a slightly higher R-squared value (0.498) compared to the simple linear regression model (0.498 vs. 0.473). A higher R-squared value indicates that the multiple linear regression model explains a larger proportion of the variance in the target variable (house prices) compared to the simple linear regression model.
 
