@@ -1,10 +1,6 @@
 
 ## Project Description
 ### Analysis of House Sales in a King's County
-=======
-Project Description
-
-Analysis of House Sales in a King's County
 
 ## Project Overview
 Primetime Realtors situated in the heart of a North Western County acts as the conduit for transforming home ownership aspirations into tangible realities. Committed to unwavering excellence and employing data-driven methodologies, the agency aspires to lead the way in achieving optimal pricing and facilitating successful real estate endeavors. Its overarching objective is to surpass traditional limitations by leveraging technology and analytical insights to revolutionize the real estate landscape as we perceive it.
