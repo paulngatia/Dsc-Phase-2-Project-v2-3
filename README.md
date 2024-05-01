@@ -59,18 +59,17 @@ Following the normalization of the target variable, we constructed a heatmap to 
 
 Lastly, in the preparation phase, we crafted two models: one showcasing the variables ranked by their correlation strength with the target variable and another displaying a scatter matrix of all variables. This approach aimed to highlight any non-normal distributions, thereby guiding the normalization process for the modeling stage.
 
-![Scatter plot](image-3.png)
+![Image](https://github.com/paulngatia/Dsc-Phase-2-Project-v2-3/blob/main/image.png) 
 
 ## Modelling
 
-
 Based on our models baseline model, utilizing a simple linear regression, established the initial understanding of the relationship between the square footage of living space and house prices. From the simple linear model, it was observed the model wasn't the best for this analysis. The model's R2 value was extreemly low, indicating that there are other numerous factors in housing that affect the house prices. These results showed that another iteration was needed. In the second model OneHot Encoding was introduced to convert the categorical variables to binary representation which is suitable for machine learning algorithms. 
 
-The second model certainly improved from the baseline model, meaning that at least one of the independent variables has a significant effect on the dependent variable. To further improve the model, a third iteration was needed, In this model, Log Transformation was introduced to reduce skewness. The results from this iteration reduced skewness while simultaniously increasing the R2 making the model highly significant. 
+The second model certainly improved from the baseline model, meaning that at least one of the independent variables has a significant effect on the dependent variable. To further improve the model, a third iteration was needed, In this model, Log Transformation was introduced to reduce skewness. The results from this iteration reduced skewness while simultaneously increasing the R2 making the model highly significant. 
 
 The final model, a multiple linear regression, incorporated additional features to improve the predictive power. Evaluation metrics such as R-squared and F-statistic were used to assess the model's performance and significance. In this model, insignificant variables were dropped to achieve the highest prediction power of the models. The results got from this model's summary displayed the highest R2 value, and the best fit of residuals to a normal distribution.
 
-![Actual vs Predicted](image-4.png)
+![Actual vs Predicted](https://github.com/paulngatia/Dsc-Phase-2-Project-v2-3/blob/main/image-2.png) 
 
 
 ## Conclusion
